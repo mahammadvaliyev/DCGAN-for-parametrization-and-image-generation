@@ -7,6 +7,13 @@ Generation of geologically realistic and reliable predictive models, honoring bo
 ## Workflow
 ![workflow_and_components](https://user-images.githubusercontent.com/68789630/147446231-558eb35c-81fd-47d1-a4ae-9b7a56bd3c07.jpg)
 
+## Files
+- project presentation
+- project report
+- code for GAN-based model generation
+- code for VAE-based model generation
+- code for PCA-based model generation
+
 
 
 
