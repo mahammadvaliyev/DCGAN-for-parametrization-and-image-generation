@@ -4,6 +4,8 @@ Generation of geologically realistic and reliable predictive models, honoring bo
 
 ## Workflow
 
+![workflow](https://user-images.githubusercontent.com/68789630/147445917-e887a19e-2b54-4551-a0c0-82c9deb78b88.JPG)
+
 Based on results, we can see that most of channel features from training image are reproduced, though there is a loss of some connectivity in generated models. Performance of proposed workflow is evaluated using some quantative methods and also compared with Variational Autoencoders (VAE) and Principal Component Analysis (PCA) based parametrization. GAN-generated models have been observed to have a higher quality.
 
 
